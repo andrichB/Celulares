@@ -1,13 +1,17 @@
 {
   "name": "celulares",
-  "version": "0.1.0",
+  "version": "0.0.1",
   "private": true,
   "dependencies": {
+    "@auth0/auth0-react": "^1.8.0",
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
     "@testing-library/user-event": "^12.1.10",
+    "auth0-js": "^9.18.0",
+    "boostrap": "^2.0.0",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
+    "react-router-dom": "^6.0.2",
     "react-scripts": "4.0.3",
     "web-vitals": "^1.0.1"
   },
@@ -34,5 +38,10 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "Habilitacion sesion 1",
+  "main": "index.js",
+  "repository": "https://github.com/andrichB/Celulares.git",
+  "author": "andrichB",
+  "license": "MIT"
 }
